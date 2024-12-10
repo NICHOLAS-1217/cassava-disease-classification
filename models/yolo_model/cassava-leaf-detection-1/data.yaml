@@ -1,0 +1,12 @@
+names:
+- cassava leaf
+nc: 1
+roboflow:
+  license: Private
+  project: cassava-leaf-detection-fqt0k
+  url: https://app.roboflow.com/nicholas-space/cassava-leaf-detection-fqt0k/1
+  version: 1
+  workspace: nicholas-space
+test: ../test/images
+train: ../train/images
+val: ../valid/images

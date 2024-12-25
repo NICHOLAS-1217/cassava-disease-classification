@@ -2,3 +2,4 @@ datasets
 processed_data
 cassava-leaf-detection-1
 saved_model
+logs
